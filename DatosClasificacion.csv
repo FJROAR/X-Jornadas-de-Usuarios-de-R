@@ -1,0 +1,16 @@
+﻿Mensaje;Categoria1;Categoria2
+Se me ha roto el móvil;Terminal;Rotura
+La cobertura es muy mala;Datos;Cobertura
+La wifi va muy lenta;Internet;Wifi
+El internet va muy lento;Internet;Wifi
+El terminal móvil no funciona;Terminal;Rotura
+El pack ha llegado roto;Terminal;Rotura
+Los datos van muy lentos;Datos;Cobertura
+El adsl no responde;Internet;Adsl
+Cliente enfadado corta llamada;Enfado;Otros
+Llamada cortada;Otros;Otros
+Cortes continuos de cobertura;Datos;Cobertura
+El internet no funciona;Internet;Wifi
+Mi móvil no recibe llamadas en casa. ¿Hay cobertura en la zona?;Datos;Cobertura
+El terminal no se enciende;Terminal;Rotura
+No tengo red;Internet;Incidencia
